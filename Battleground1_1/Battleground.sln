@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battleground", "Battleground1\Battleground.csproj", "{BD5220D7-0C0A-4BFD-979D-40A2ABF7D383}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD5220D7-0C0A-4BFD-979D-40A2ABF7D383}.Debug|x86.ActiveCfg = Debug|x86
+		{BD5220D7-0C0A-4BFD-979D-40A2ABF7D383}.Debug|x86.Build.0 = Debug|x86
+		{BD5220D7-0C0A-4BFD-979D-40A2ABF7D383}.Release|x86.ActiveCfg = Release|x86
+		{BD5220D7-0C0A-4BFD-979D-40A2ABF7D383}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
